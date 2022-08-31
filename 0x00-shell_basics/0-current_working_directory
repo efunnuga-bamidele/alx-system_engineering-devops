@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ${BASH_SOURCE:-$0}
+echo readlink -f 0-current_working_directory
